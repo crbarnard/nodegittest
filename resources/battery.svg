@@ -11,16 +11,16 @@
    inkscape:version="1.0 (4035a4f, 2020-05-01)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 210 297"
-   height="297mm"
-   width="210mm">
+   viewBox="0 0 100 70"
+   height="70mm"
+   width="100mm">
   <defs
      id="defs2">
     <filter
        height="1.0000354"
-       y="-1.7723077e-05"
+       y="-1.7723078e-05"
        width="1.0000155"
-       x="-7.7662922e-06"
+       x="-7.7662926e-06"
        id="filter843"
        style="color-interpolation-filters:sRGB"
        inkscape:collect="always">
@@ -41,9 +41,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="595.83407"
-     inkscape:cx="336.44166"
-     inkscape:zoom="1.4"
+     inkscape:cy="736.63839"
+     inkscape:cx="219.80353"
+     inkscape:zoom="0.35"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -63,26 +63,25 @@
     </rdf:RDF>
   </metadata>
   <g
-     style="filter:url(#filter843);opacity:0.996"
+     style="opacity:0.996;filter:url(#filter843)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <rect
-       y="142.59225"
-       x="37.986607"
+       y="16.348211"
+       x="16.819939"
        height="36.85268"
        width="53.483635"
        id="rect833"
        style="opacity:1;fill:#00ff00;fill-opacity:1;stroke-width:1.49526;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke" />
     <path
-       transform="scale(0.26458333)"
-       d="M 146.42773 514.5918 C 132.89157 514.5918 121.73438 525.74701 121.73438 539.2832 L 121.73438 677.85742 C 121.73438 691.39357 132.88709 702.55664 146.42773 702.55664 L 389.2832 702.55664 C 402.82381 702.55664 413.98437 691.39803 413.98438 677.85742 L 413.98438 539.2832 C 413.98438 525.74255 402.81935 514.5918 389.2832 514.5918 L 146.42773 514.5918 z M 146.42773 522.85742 L 389.28516 522.85742 C 398.38656 522.85742 405.71484 530.18371 405.71484 539.28516 L 405.71484 677.85742 C 405.71484 686.95883 398.38656 694.28516 389.28516 694.28516 L 146.42773 694.28516 C 137.32631 694.28516 130 686.95883 130 677.85742 L 130 539.28516 C 130 530.18371 137.32631 522.85742 146.42773 522.85742 z "
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 17.57567,9.9083643 c -3.581443,0 -6.533449,2.9514827 -6.533449,6.5329327 v 36.664426 c 0,3.58144 2.950821,6.535 6.533449,6.535 h 64.255506 c 3.58262,0 6.53552,-2.95238 6.53552,-6.535 V 16.441297 c 0,-3.58263 -2.95408,-6.5329327 -6.53552,-6.5329327 z m 0,2.1869447 h 64.256026 c 2.40808,0 4.34702,1.938415 4.34702,4.346507 v 36.663907 c 0,2.40808 -1.93894,4.34651 -4.34702,4.34651 H 17.57567 c -2.408084,0 -4.346504,-1.93843 -4.346504,-4.34651 V 16.441816 c 0,-2.408092 1.93842,-4.346507 4.346504,-4.346507 z"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="path856" />
     <rect
        ry="3.0238094"
-       y="150.90773"
-       x="107.34524"
+       y="24.663687"
+       x="86.178574"
        height="20.221727"
        width="5.6696424"
        id="rect860"
