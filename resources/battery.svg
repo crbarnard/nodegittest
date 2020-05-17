@@ -6,20 +6,15 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="100mm"
    height="70mm"
    viewBox="0 0 100 70"
    version="1.1"
-   id="svg8"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
-   sodipodi:docname="battery.svg">
+   id="svg8">
   <defs
      id="defs2">
     <linearGradient
-       id="linearGradient1493"
-       inkscape:collect="always">
+       id="linearGradient1493">
       <stop
          id="stop1489"
          offset="0"
@@ -30,7 +25,6 @@
          style="stop-color:#c9ff2f;stop-opacity:1" />
     </linearGradient>
     <filter
-       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter843"
        x="-7.7662926e-06"
@@ -38,7 +32,6 @@
        y="-1.7723078e-05"
        height="1.0000354">
       <feGaussianBlur
-         inkscape:collect="always"
          stdDeviation="0.00021771429"
          id="feGaussianBlur845" />
     </filter>
@@ -49,30 +42,8 @@
        y1="37.041668"
        x1="23.434525"
        id="linearGradient1495"
-       xlink:href="#linearGradient1493"
-       inkscape:collect="always" />
+       xlink:href="#linearGradient1493" />
   </defs>
-  <sodipodi:namedview
-     showborder="false"
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-330.19647"
-     inkscape:cy="-63.36161"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:snap-global="false"
-     inkscape:window-width="1252"
-     inkscape:window-height="855"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -86,8 +57,6 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"
      style="opacity:0.996;filter:url(#filter843)">
     <rect
