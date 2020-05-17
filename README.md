@@ -1,0 +1,3 @@
+
+
+![Test](./resources/battery.svg)
